@@ -14,3 +14,9 @@
     Add each number to totalSum.
 6.Initialize found Flag for Result Checking:
   Create a boolean found, set initially to false. This will help determine if a number equal to the sum of the other numbers is found.
+7.Check if Any Number Equals the Sum of the Other Numbers:
+  Use an enhanced for loop to iterate over each num in numbers.
+    For each num, check if it equals totalSum - num (i.e., if removing num from totalSum leaves a value equal to num itself).
+    If this condition is met:
+      Print "Yes" and "Sum = " followed by num.
+      Set found to true and break out of the loop.
