@@ -5,4 +5,6 @@
   In the main method, create a Scanner instance to read user input.
 3.Read Array Size n:
   Read an integer n which specifies the size of the array (number of elements).
+4.Declare and Initialize Variables:
+
 
