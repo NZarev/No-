@@ -1,1 +1,2 @@
-1.
+1.Import Scanner for Input:
+  Import java.util.Scanner to enable reading user input.
