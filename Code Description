@@ -8,4 +8,7 @@
 4.Declare and Initialize Variables:
   Create an integer array numbers of size n to store the numbers.
   Initialize totalSum to zero. This will hold the sum of all numbers.
-
+5.Read Numbers and Calculate Total Sum:
+  Use a for loop to:
+    Read each number and store it in the numbers array.
+    Add each number to totalSum.
