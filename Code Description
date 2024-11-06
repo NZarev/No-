@@ -1,2 +1,5 @@
 1.Import Scanner for Input:
   Import java.util.Scanner to enable reading user input.
+2.Define Main Class and Method:
+  Create the class No.
+  In the main method, create a Scanner instance to read user input.
