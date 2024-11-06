@@ -6,5 +6,6 @@
 3.Read Array Size n:
   Read an integer n which specifies the size of the array (number of elements).
 4.Declare and Initialize Variables:
-
+  Create an integer array numbers of size n to store the numbers.
+  Initialize totalSum to zero. This will hold the sum of all numbers.
 
