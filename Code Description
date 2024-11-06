@@ -20,3 +20,10 @@
     If this condition is met:
       Print "Yes" and "Sum = " followed by num.
       Set found to true and break out of the loop.
+8.Handle Case When No Matching Sum Is Found:
+  If no such number is found (found is false):
+    Find the largest number in numbers using another enhanced for loop.
+    Calculate the difference diff as the absolute value of maxNum - (totalSum - maxNum).
+    Print "No" and "Diff = " followed by diff.
+9.Close the Scanner:
+  Use scanner.close() to release the resource
